@@ -16,6 +16,12 @@ The Racing Roguelike development team has been guided by their sponsor, Jon Raho
 
 To play the current version of Racing Roguelike, click [here](https://rahoi.github.io/racing-roguelike/)!
 
+## Installation
+Can be done through x steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
+
+## Usage
+This will create an .exe file in corresponding folder (Assets by default).
+
 ## Development Dependencies/Technologies
 - Node.js
     - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)

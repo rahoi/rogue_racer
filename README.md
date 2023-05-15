@@ -19,12 +19,12 @@ To play the current version of Racing Roguelike, click [here](https://rahoi.gith
 ## Installation
 Can be done through x steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
 
+## Usage
+This will create an .exe file in corresponding folder (Assets by default).
+
 ## Task Management and Issues
 - Trello
     - [https://trello.com/b/p2K56wjI/racing-roguelike](https://trello.com/b/p2K56wjI/racing-roguelike)
-
-## Usage
-This will create an .exe file in corresponding folder (Assets by default).
 
 ## Development Dependencies/Technologies
 - Node.js

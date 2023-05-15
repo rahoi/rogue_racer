@@ -87,9 +87,9 @@ The following diagram demonstrates the architectural design of this project.
 
 ![Architectural Diagram](https://github.com/rahoi/racing-roguelike/blob/main/public/assets/architectural-diagram.png)
 
-### Scene Flowchart
+### Data Flow Diagram
 The following diagram demonstrates the flow of data from Scene to Scene.
-![Scene Diagram](https://github.com/rahoi/racing-roguelike/blob/main/public/assets/scene-diagram.png)
+![Scene Diagram](https://github.com/rahoi/rogue_racer/blob/main/public/assets/DataFlow.png)
 
 ### Completed Features
 Below are major features of the game that have been implemented and are working in the current version of Racing Roguelike:

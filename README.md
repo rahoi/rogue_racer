@@ -1,6 +1,6 @@
 # Racing Roguelike
 
-![Racing Roguelike](https://github.com/rahoi/racing-roguelike/blob/main/public/assets/racing-roguelike.png "Racing Roguelike")
+![Racing Roguelike](https://github.com/rahoi/rogue_racer/blob/main/public/assets/MainMenu.png)
 
 ## About
 Racing Roguelike is a union between two popular gaming genres, racing games and roguelike games. Racing games typically are a video game genre in which the player participates in a racing competition and roguelike games typically have procedurally generated levels, turn-based gameplay, grid-based movement, and permanent death of the player character. Combining these two genres together will create a unique gaming experience that will attract users that are fans of either genre of video game. We hope to make our game fun and engaging enough to keep our users interested in progressing in the game. We want to take the fast paced engaging gameplay of racing games and combine that with the random generation and interesting upgrades of roguelike games. We want to take the best aspects of each type of game and use those to create something new.

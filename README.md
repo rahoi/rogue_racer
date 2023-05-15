@@ -94,19 +94,20 @@ The following diagram demonstrates the flow of data from Scene to Scene.
 ### Completed Features
 Below are major features of the game that have been implemented and are working in the current version of Racing Roguelike:
 
-- [Procedurally Generated Race Track](https://github.com/rahoi/racing-roguelike/blob/main/docs/track-generation.md)
-- [Player Physics](https://github.com/rahoi/racing-roguelike/blob/main/docs/player-physics.md)
-- [Fog of War](https://github.com/rahoi/racing-roguelike/blob/main/docs/fow-of-war.md)
-- [Checkpoints](https://github.com/rahoi/racing-roguelike/blob/main/docs/checkpoints.md)
-- [Different Vehicle Classes](https://github.com/rahoi/racing-roguelike/blob/main/docs/player-classes.md)
-- [Timer](https://github.com/rahoi/racing-roguelike/blob/main/docs/timer.md)
+- Procedurally Generated Race Track
+- Random Terrain
+- Vehicle Physics
+- Weather Conditions
+- Checkpoints
+- Vehicle Selection
+- Timer
 
 ### TODO/Future Planned Features
 Below are some features that have not been implemented, but are the next steps to pursue:
 
-- Vehicle Power Ups/Items
-- Enemies/Obstacles
-- Global Leaderboard
+- Multiplayer
+- Improved Enemy AI
+- Random Objectives
 
 ### Credits
 Special thanks to

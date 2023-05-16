@@ -84,7 +84,7 @@ Below are major features of the game that have been implemented and are working 
 Below are some features that have not been implemented, but are the next steps to pursue:
 
 - Multiplayer
-- Improved Enemy AI
+- Player Position
 - Random Objectives
 
 ### Project Spec

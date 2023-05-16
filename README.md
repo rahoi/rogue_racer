@@ -96,6 +96,10 @@ Below are some features that have not been implemented, but are the next steps t
 ### Final Presentation
 [https://docs.google.com/presentation/d/1YnBX80psI-J3Ph09G3i4xWLb2IXDLpbzrlEN331Nnco/edit?usp=sharing](https://docs.google.com/presentation/d/1YnBX80psI-J3Ph09G3i4xWLb2IXDLpbzrlEN331Nnco/edit?usp=sharing)
 
+### Assets
+
+[https://docs.google.com/document/d/1b_vTGzsvNBosNbRMsIwPj8zm5TPWZCPnbwM7Vbv2uDc/edit?usp=sharing](https://docs.google.com/document/d/1b_vTGzsvNBosNbRMsIwPj8zm5TPWZCPnbwM7Vbv2uDc/edit?usp=sharing)
+
 ### Credits
 Special thanks to
 

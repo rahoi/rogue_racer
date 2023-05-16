@@ -59,6 +59,7 @@ To contribute to Racing Roguelike or branch off and continue the project,
 
 ### Data Flow Diagram
 The following diagram demonstrates the flow of data from Scene to Scene.
+
 ![Scene Diagram](https://github.com/rahoi/rogue_racer/blob/main/public/assets/DataFlow.png)
 
 ### Completed Features

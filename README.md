@@ -100,3 +100,4 @@ Below are some features that have not been implemented, but are the next steps t
 Special thanks to
 
 - [Unity Asset Store](https://assetstore.unity.com/) for the awesome assets for the vehicles and map
+- [Ian Hudson](https://github.com/I-Hudson) for providing base alogrithm for Track Generation

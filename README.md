@@ -23,12 +23,6 @@ To play the current version of Racing Roguelike, click [here](https://drive.goog
         - `chmod +x SeniorTeamProjectMac.app/Contents/MacOS/Racing\ roguelike`
 3. Play the game
 
-## Installation
-Can be done through 4 steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
-
-## Usage
-This will create an .exe file in corresponding folder (Assets by default).
-
 ## Task Management and Issues
 - Trello
     - [https://trello.com/b/p2K56wjI/racing-roguelike](https://trello.com/b/p2K56wjI/racing-roguelike)
@@ -63,6 +57,12 @@ To contribute to Racing Roguelike or branch off and continue the project,
 8. For building and deployment:
     - If pushing to the main branch on this repo, [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) will automatically start a GitHub Action to build and deploy the updated project to [this](https://rahoi.github.io/racing-roguelike/) GitHub Pages site
     - If branching off and continuing the project on your own, you'll have to either set up GitHub Pages for your own repo, or delete [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) and run `npm run build` to build for deployment and deploy onto a site of your choosing
+
+## Installation
+Can be done through 4 steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
+
+## Usage
+This will create an .exe file in corresponding folder (Assets by default).
 
 ### Design
 The following design demonstrates the aesthetics of our game from Scene to Scene.

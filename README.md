@@ -27,38 +27,17 @@ This will create an .exe file in corresponding folder (Assets by default).
     - [https://trello.com/b/p2K56wjI/racing-roguelike](https://trello.com/b/p2K56wjI/racing-roguelike)
 
 ## Development Dependencies/Technologies
-- Node.js
-    - [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-    - Version 16.15.1
-- Jest
-    - [https://jestjs.io/](https://jestjs.io/)
-    - Version 28.0.7
-- Svelte
-    - [https://svelte.dev/](https://svelte.dev/)
-    - Version 3.49.0
-- Vite
-    - [https://vitejs.dev/](https://vitejs.dev/)
-    - Version 2.9.9
-- Phaser 
-    - [https://phaser.io/download/stable](https://phaser.io/download/stable)
-    - Version 3.55.2 “Ichika” 
-- catmull-rom-interpolator
-    - [https://github.com/rciszek/catmull-rom-interpolator](https://github.com/rciszek/catmull-rom-interpolator)
-    - Version 1.0.1
-- hull.js
-    - [https://github.com/AndriiHeonia/hull](https://github.com/AndriiHeonia/hull)
-    - Version 1.0.2
-- MRPAS
-    - [https://bitbucket.org/umbraprojekt/mrpas/src/master/](https://bitbucket.org/umbraprojekt/mrpas/src/master/)
-    - 2.0.0
+- Unity
+    - [https://unity.com/releases/editor/whats-new/2020.3.44](https://unity.com/releases/editor/whats-new/2020.3.44)
+    - Version 2020.3.44
+- PlasticSCM
+    - [https://www.plasticscm.com/download](https://www.plasticscm.com/download)
+    - Version 11.0
 
 ## Development Environment
-- Visual Studio Code
+- Visual Studio
     - [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-    - Version 1.63.2
-- TypeScript 
-    - [https://www.typescriptlang.org/download](https://www.typescriptlang.org/download)
-    - Version 4.7.4
+    - Version 17.5.4
 
 ## Getting Started
 To contribute to Racing Roguelike or branch off and continue the project,

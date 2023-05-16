@@ -14,7 +14,14 @@ The Racing Roguelike development team has been guided by their sponsor, Jon Raho
 
 ## Play the Game
 
-To play the current version of Racing Roguelike, click [here](https://rahoi.github.io/racing-roguelike/)!
+To play the current version of Racing Roguelike, click [here](https://drive.google.com/drive/folders/1elPPeuwQ7TYmea-vtw8ple85nB8jkaCK?usp=sharing)!
+
+1. Download the zip file for either Windows or Max
+2. Run the executable file
+    - `Windows users just need to run the executable file`
+    - `Mac users need to run the following command before running the exectable file`
+        - `chmod +x SeniorTeamProjectMac.app/Contents/MacOS/Racing\ roguelike`
+3. Play the game
 
 ## Installation
 Can be done through 4 steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
@@ -56,6 +63,11 @@ To contribute to Racing Roguelike or branch off and continue the project,
 8. For building and deployment:
     - If pushing to the main branch on this repo, [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) will automatically start a GitHub Action to build and deploy the updated project to [this](https://rahoi.github.io/racing-roguelike/) GitHub Pages site
     - If branching off and continuing the project on your own, you'll have to either set up GitHub Pages for your own repo, or delete [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) and run `npm run build` to build for deployment and deploy onto a site of your choosing
+
+### Design
+The following design demonstrates the aesthetics of our game from Scene to Scene.
+
+![Design](https://github.com/rahoi/rogue_racer/blob/main/public/assets/Design.png)
 
 ### Data Flow Diagram
 The following diagram demonstrates the flow of data from Scene to Scene.

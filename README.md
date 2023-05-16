@@ -74,6 +74,11 @@ The following diagram demonstrates the flow of data from Scene to Scene.
 
 ![Scene Diagram](https://github.com/rahoi/rogue_racer/blob/main/public/assets/DataFlow.png)
 
+### Test Documentation
+The following test documentation explains how our code is tested
+
+![Test Documentation](https://docs.google.com/document/d/1etIqaaAcKjNOm8D7NVJk7PTZm3ewYiJLcNySeKN1SgM/edit?usp=sharing)
+
 ### Completed Features
 Below are major features of the game that have been implemented and are working in the current version of Racing Roguelike:
 

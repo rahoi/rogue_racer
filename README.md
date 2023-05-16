@@ -80,6 +80,12 @@ Below are some features that have not been implemented, but are the next steps t
 - Improved Enemy AI
 - Random Objectives
 
+### Midterm Presentation
+[https://docs.google.com/presentation/d/1z3Su3tlW_QmH7YirFtQ3MQhMxVxaYfQ6MOpdXavsnRo/edit?usp=sharing](https://docs.google.com/presentation/d/1z3Su3tlW_QmH7YirFtQ3MQhMxVxaYfQ6MOpdXavsnRo/edit?usp=sharing)
+
+### Final Presentation
+[https://docs.google.com/presentation/d/1YnBX80psI-J3Ph09G3i4xWLb2IXDLpbzrlEN331Nnco/edit?usp=sharing](https://docs.google.com/presentation/d/1YnBX80psI-J3Ph09G3i4xWLb2IXDLpbzrlEN331Nnco/edit?usp=sharing)
+
 ### Credits
 Special thanks to
 

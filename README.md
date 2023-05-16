@@ -43,22 +43,12 @@ To play the current version of Racing Roguelike, click [here](https://drive.goog
 ## Getting Started
 To contribute to Racing Roguelike or branch off and continue the project,
 
-1. Clone the repo
-2. Install dependencies
-    - `npm i`
-3. Start the local development server
-    - `npm run dev`
-4. Make changes to the repo
-5. View changes on the local server
-    - [http://localhost:3000/](http://localhost:3000/) (if port 3000 is not already in use)
-6. Add tests to the [tests](https://github.com/rahoi/racing-roguelike/tree/main/tests) folder
-7. Run tests and verify test results
-    - `npm test`
-8. For building and deployment:
-    - If pushing to the main branch on this repo, [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) will automatically start a GitHub Action to build and deploy the updated project to [this](https://rahoi.github.io/racing-roguelike/) GitHub Pages site
-    - If branching off and continuing the project on your own, you'll have to either set up GitHub Pages for your own repo, or delete [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) and run `npm run build` to build for deployment and deploy onto a site of your choosing
+1. Add new user to PlasticSCM project
+    - [https://www.plasticscm.com/dashboard/cloud/USFCA_CS490_SP23/users-and-groups](https://www.plasticscm.com/dashboard/cloud/USFCA_CS490_SP23/users-and-groups)
+2. Open project in PlasticSCM application from the website
+3. Open Unity and connect to PlasticSCM
 
-## Installation
+## Building
 Can be done through 4 steps. Go to FILE, BUILD SETTINGS, select the corresponding OS (Windows/MacOS), and click BUILD AND RUN.
 
 ## Usage

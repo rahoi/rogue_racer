@@ -9,8 +9,8 @@ Racing Roguelike is a union between two popular gaming genres, racing games and 
 The Racing Roguelike development team has been guided by their sponsor, Jon Rahoi ([jonrahoi](https://github.com/jonrahoi)), and consists of:
 
 - Colin Bindi ([ColinBindi](https://github.com/ColinBindi))
-- Steven Lu ([?](https://github.com/?))
-- Cameron Kramer ([?](https://github.com/?))
+- Steven Lu ([StevenLU0413](https://github.com/StevenLU0413))
+- Cameron Kramer ([Cmkramer1](https://github.com/Cmkramer1))
 
 ## Play the Game
 
@@ -56,15 +56,6 @@ To contribute to Racing Roguelike or branch off and continue the project,
 8. For building and deployment:
     - If pushing to the main branch on this repo, [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) will automatically start a GitHub Action to build and deploy the updated project to [this](https://rahoi.github.io/racing-roguelike/) GitHub Pages site
     - If branching off and continuing the project on your own, you'll have to either set up GitHub Pages for your own repo, or delete [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml) and run `npm run build` to build for deployment and deploy onto a site of your choosing
-
-### Scripts and Usage
-- [deploy.yml](https://github.com/rahoi/racing-roguelike/blob/main/.github/workflows/deploy.yml)
-    - starts a GitHub Action to build the project, then deploy to GitHub pages
-
-### Architectural Diagram
-The following diagram demonstrates the architectural design of this project.
-
-![Architectural Diagram](https://github.com/rahoi/racing-roguelike/blob/main/public/assets/architectural-diagram.png)
 
 ### Data Flow Diagram
 The following diagram demonstrates the flow of data from Scene to Scene.
